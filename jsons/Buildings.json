@@ -1,25 +1,26 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
-		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+		"name": "Crunchy Cristal Mint",
+		"replaces": "Mint",
+		"uniqueTo": "Chibidoki",
+		"maintenance": 0,
+		"requiredNearbyImprovedResources": ["Salt", "Sugar", "Gems", "Pearls"],
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Gold] from [Salt] tiles [in this city]", "[+1 Gold] from [Gems] tiles [in this city]",
+		"[+1 Gold] from [Sugar] tiles [in this city]", "[+1 Gold] from [Pearls] tiles [in this city]","[+1 Food] per [3] population [in this city]"],
+		"requiredTech": "Currency"
 	},
 	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
-	}
+		
+		"name": "Clip Library",
+		"replaces": "Research Lab",
+		"uniqueTo": "Chibidoki",
+		"culture": 4,
+		"percentStatBonus": {"culture": 50},
+		"specialistSlots": {"Artist": 1},
+		"requiredBuilding": "Public School",
+		"maintenance": 3,
+		"requiredTech": "Plastics"
+	
+	},
 ]
