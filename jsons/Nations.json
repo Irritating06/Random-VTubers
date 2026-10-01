@@ -1,40 +1,30 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
-		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
-		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
-		
-		"neutralHello": "How are you doing?",
-		//"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		//"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		//"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"name": "Chibidoki",
+		"leaderName": "Chibidoki",
+		"adjective": ["Chibbers"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Cultural",
 
-		"hateHello": "What do you want now?",
-		//"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		//"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		//"hateYes": ["That is fine.","That is good enough.","Very well..."],
-		
-		//"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
-		"denounced": "The accusations of primitive lifeforms are beneath us.",
-		"declaringfriendship": "Let us become like friends!",
+		"startIntroPart1": "Hi, Buenos Dias. ",
+		"startIntroPart2": "Can you show the world as Chibidoki that your silliness is simply the best thing to lead?",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
-	}
+		"declaringWar": "HAHAHA, ADIOS ENEMY ADIOS ENEMY. ADIOS!",
+		"attacked": "I just want to be friends with everyone...",
+		"defeated": "Adios puta madre",
+		"introduction": "<3 im loud and want to be your friend <3",
+
+		"neutralHello": "Espanol rapido.",
+		"hateHello": "SHUT UP! I want Moodeng",
+
+		"tradeRequest": "Chibi Tax!",
+
+		"outerColor": [237,33,115],
+		"innerColor": [230, 96, 185],
+		"uniqueName": "Big Head Queen",
+		"uniques": ["Free [Great Artist] appears <upon discovering [Drama and Poetry] technology>", "[Great Artist] is earned [33]% faster", "[+2 Culture] [in capital]"],
+		"cities": ["Chibi Capital","Moodeng Town","Head Town","Doki City","Chibba","Rapido", "ChibChib", "TISM Town","Muehehehehe", "Doki Town",
+		"Chibi Colony", "Chibidoki City"],
+        "spyNames": ["Rimmer", "Chibber", "Chibi Choker", "Doki Donki", "Not Nagzz", "Madre con leche"]
+	},
 ]
